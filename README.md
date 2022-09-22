@@ -4,7 +4,8 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=40&center=true&vCenter=true&width=1310&height=200&pause=1100&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=40&center=true&vCenter=true&width=1310&height=500&pause=1000&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;+Reliability+Analysis%2C+Quality+Control%2C;;Machine+Learning+and+Timeseries+Analysis%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
 
 <br><br>
 
