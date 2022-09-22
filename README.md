@@ -3,15 +3,8 @@
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-###  
-Hi there, I am Junhyun Byun</br>
 
-I+aim+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.
-
-open source : https://github.com/devpla
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun.%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=1200&height=200&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;I+aim+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br><br>
 
