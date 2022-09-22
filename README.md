@@ -4,6 +4,7 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JunHyun-DS/JunHyun-DS.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunHyun-DS)](https://hits.seeyoufarm.com)
 [![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/JunHyun-DS/CV)](https://github.com/JunHyun-DS/CV)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2016314018@tukorea.ac.kr)](mailto:2016314018@tukorea.ac.kr)
 
