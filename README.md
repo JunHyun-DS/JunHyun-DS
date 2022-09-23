@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/JunHyun-DS/github-stats/master/generated/languages.svg" width=49% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=#6495ED&color=4169E1" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=98%/>
 </a>
 
 <br><br><br>
