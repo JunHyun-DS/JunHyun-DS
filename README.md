@@ -9,7 +9,6 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color="61dafb",&size=40&background=20232a&center=true&Center=true&width=1400&height=350&pause=200&duaration=1000&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;Reliability+Analysis%2C+Quality+Control%2C+Machine+Learning+and+Timeseries+Analysis%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JunHyun-DS&show_icons=true&theme=react-palenight&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=fff&title_color=61dafb" width=49.5% />
 </a>
