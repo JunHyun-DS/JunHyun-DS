@@ -7,7 +7,8 @@
 [![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://https://github.com/JunHyun-DS/CV)](https://github.com/JunHyun-DS/CV)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2016314018@tukorea.ac.kr)](mailto:2016314018@tukorea.ac.kr)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=40&center=true&vCenter=true&width=1310&height=500&pause=900&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;+Reliability+Analysis%2C+Quality+Control%2C+Machine+Learning+and+Timeseries+Analysis%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+ <!--color=9D9ED2-->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=448FC3&size=40&center=true&vCenter=true&width=1310&height=500&pause=900&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;+Reliability+Analysis%2C+Quality+Control%2C+Machine+Learning+and+Timeseries+Analysis%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <!-- Junhyun's profile -->
  
