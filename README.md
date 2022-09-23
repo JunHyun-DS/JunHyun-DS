@@ -1,7 +1,6 @@
 
 <div align="center">
-<br><br><br>
-
+<br>
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/JunHyun-DS/JunHyun-DS) 
