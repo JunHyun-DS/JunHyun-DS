@@ -19,9 +19,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
 </a>
 
-<br><br><br>
-
-
 <!--
 **JunHyun-DS/JunHyun-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
