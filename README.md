@@ -9,10 +9,10 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color="61dafb",&size=40&background=20232a&center=true&Center=true&width=1400&height=350&pause=300&duaration=500&multiline=true&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;Reliability+Analysis%2C+Quality+Control%2C+Machine+Learning+and+Timeseries+Analysis%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunHyun-DS&show_icons=true&theme=react-palenight&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=fff&title_color=61dafb" width=49.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunHyun-DS&show_icons=true&theme=react-palenight&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=fff&title_color=61dafb" width=49.3% />
 </a>
 <a href="https://github.com/JunHyun-DS/github-stats">
- <img src="https://raw.githubusercontent.com/JunHyun-DS/github-stats/master/generated/languages.svg" width=49.5% />
+ <img src="https://raw.githubusercontent.com/JunHyun-DS/github-stats/master/generated/languages.svg" width=49.3% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
