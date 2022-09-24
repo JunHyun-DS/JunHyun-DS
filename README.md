@@ -1,5 +1,4 @@
 <div align="center">
-<div style background-color:black>
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
@@ -18,7 +17,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
 </a>
-</div>
 <!--
 **JunHyun-DS/JunHyun-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
