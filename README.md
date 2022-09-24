@@ -1,5 +1,5 @@
 <div align="center">
-<div style background-color:ivory>
+<div style background-color:black>
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
