@@ -19,12 +19,6 @@
 </a>
 
 <!--
-<a href="https://github.com/JunHyun-DS/github-stats">
- <img src="https://raw.githubusercontent.com/JunHyun-DS/github-stats/master/generated/overview.svg" width=49.3% />
-</a>
-  -->
-
-<!--
 **JunHyun-DS/JunHyun-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
