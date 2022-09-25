@@ -18,14 +18,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
 </a>
 
- 
-<a href="https://github.com/JunHyun-DS/RUL-Prediction-Model-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunHyun-DS&repo=RUL-Prediction-Model-R" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat](https://github.com/JunHyun-DS/Timeseries-Prediction-Model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunHyun-DS&repo=Timeseries-Prediction-Model" />
-</a>
-
 <!--
 **JunHyun-DS/JunHyun-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
