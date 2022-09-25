@@ -19,10 +19,10 @@
 </a>
 
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunHyun-DS&repo= RUL-Prediction-Model-R" />
+<a href="https://github.com/JunHyun-DS/RUL-Prediction-Model-R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunHyun-DS&repo=RUL-Prediction-Model-R" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat](https://github.com/JunHyun-DS/Timeseries-Prediction-Model">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JunHyun-DS&repo=Timeseries-Prediction-Model" />
 </a>
 
