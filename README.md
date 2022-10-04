@@ -2,21 +2,21 @@
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JunHyun-DS/JunHyun-DS) 
-[![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/JunHyun-DS/CV/blob/master/cv.pdf)](https://github.com/JunHyun-DS/CV/blob/master/cv.pdf)
-[![Blog Badge](http://img.shields.io/badge/-Blog%20-orange?style=flat-square&logo=blogger&logoColor=white&link=https://junhyun-ds.github.io/)](https://junhyun-ds.github.io/)
+![GitHub last commit](https://img.shields.io/github/last-commit/dsPHM/dsPHM) 
+[![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/dsPHM/CV/blob/master/cv.pdf)](https://github.com/dsPHM/CV/blob/master/cv.pdf)
+[![Blog Badge](http://img.shields.io/badge/-Blog%20-orange?style=flat-square&logo=blogger&logoColor=white&link=https://dsPHM.github.io/)](https://dsPHM.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2016314018@tukorea.ac.kr)](mailto:2016314018@tukorea.ac.kr)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color="61dafb",&size=40&background=20232a&center=true&Center=true&width=1250&height=350&duaration=500&pause=300&multiline=true&lines=Hi+there%2C+I'm+Junhyun+Byun;;I+aims+to+develop+simple+and+practical+skills+to+solve+the+engineering+problems.;;I'm+interested+in+Prognostics+%26+Health+Management%2C;;Reliability+Analysis%2C+Quality+Control%2C+Machine+Learning+and+Timeseries+Analysis)](https://git.io/typing-svg)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunHyun-DS&show_icons=true&theme=react-palenight&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=fff&title_color=61dafb" width=49.3% />
+  <img src="https://github-readme-stats.vercel.app/api?username=dsPHM&show_icons=true&theme=react-palenight&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=fff&title_color=61dafb" width=49.3% />
 </a>
-<a href="https://github.com/JunHyun-DS/github-stats">
- <img src="https://raw.githubusercontent.com/JunHyun-DS/github-stats/master/generated/languages.svg" width=49.3% />
+<a href="https://github.com/dsPHM/github-stats">
+ <img src="https://raw.githubusercontent.com/dsPHM/github-stats/master/generated/languages.svg" width=49.3% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=JunHyun-DS&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=dsPHM&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" width=99%/>
 </a>
 
 <!--
