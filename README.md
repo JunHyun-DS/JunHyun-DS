@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/proByun/proByun) 
 [![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/proByun/CV/blob/master/cv.pdf)](https://github.com/proByun/CV/blob/master/cv.pdf)
-[![Blog Badge](http://img.shields.io/badge/-Blog%20-orange?style=flat-square&logo=blogger&logoColor=white&link=https://proByun.github.io/)](https://proByun.github.io/)
+[![Blog Badge](http://img.shields.io/badge/-Blog%20-orange?style=flat-square&logo=blogger&logoColor=white&link=https://proByun.github.io/)](https://proByun.github.io/#)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2016314018@tukorea.ac.kr)](mailto:2016314018@tukorea.ac.kr)
 
 
